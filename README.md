@@ -30,7 +30,7 @@ El usuario introduce su contraseña en el campo y el componente la **valida auto
 - **Verde claro:** contraseña válida
 - **Rojo claro:** contraseña incorrecta
 
-Además, el campo muestra un **mensaje informativo (tooltip)** indicando qué requisitos faltan.  
+Además, el campo muestra un **mensaje informativo  indicando qué requisitos faltan.  
 También se añadió un **botón “Confirmar”** que permite comprobar manualmente si la contraseña cumple los requisitos, mostrando un mensaje distinto según el resultado.
 
 | Estado | Descripción | Tipo de mensaje |
@@ -77,15 +77,6 @@ Esto garantiza que el componente funcione correctamente incluso si se cambian lo
 
 ---
 
-## 💬 Conclusiones personales
-
-Este proyecto me ha servido para entender cómo funcionan los **eventos de foco en Swing**, cómo se diseñan **componentes personalizados** y cómo se pueden aplicar reglas de validación de manera ordenada y clara.
-
-También he aprendido a mejorar la legibilidad del código, separar la lógica del diseño y dar al usuario una experiencia más intuitiva gracias a mensajes visuales simples pero efectivos.  
-Aunque he contado con la ayuda de **ChatGPT (GPT-5)** para aclarar dudas y organizar las ideas, el desarrollo y pruebas se han realizado en **IntelliJ IDEA**, cumpliendo con los objetivos del temario.
-
----
-
 ## 📘 Resumen del aprendizaje
 
 | Concepto | Qué se ha aprendido |
@@ -109,19 +100,10 @@ Aunque he contado con la ayuda de **ChatGPT (GPT-5)** para aclarar dudas y organ
 
 ---
 
-## 🏁 Conclusión final
-
-El componente **ValidadorC** cumple perfectamente con las normas establecidas y aporta una mejora real a la experiencia de usuario dentro de una aplicación Swing.  
-Su diseño modular y claro permite reutilizarlo en futuros proyectos y adaptarlo fácilmente a nuevas políticas de validación o requisitos visuales.
-
-Ha sido una práctica útil y muy completa para afianzar conocimientos sobre **interfaces gráficas en Java** y el uso de **componentes reutilizables**, que serán esenciales para futuros desarrollos tanto personales como profesionales.
-
----
-
 ## 👤 Autor y créditos
 
 **Autor:** Santiago Lafuente Hernández  
 **Proyecto:** ValidadorPassword  
-**Ciclo:** Desarrollo de Aplicaciones Multiplataforma (1º DAM)  
+**Ciclo:** Desarrollo de Aplicaciones Multiplataforma (2º DAM)  
 **Centro:** Aula Campus Burjassot – Valencia  
-**Colaboración técnica:** Asistencia puntual de ChatGPT (GPT-5)  
+**Colaboración técnica:** Asistencia puntual de ChatGPT (GPT-5), sobretodo en el desarrollo del Markdown y explicación de conceptos técnicos.
